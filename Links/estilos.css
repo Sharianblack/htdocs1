@@ -1,0 +1,45 @@
+/*Estilos universales
+aplica a todos los componentes del documento HTML*/
+/*background color es pa el color del fondo de la pagina
+*/
+
+* {
+    margin: 10 px;
+    font-size: 15px;
+    background-color:rgb(0, 190, 79);
+}
+
+div {
+    width: 100%;
+    border: 1px solid;
+}
+
+.logo {
+    width: 50%;
+    border: 1px solid red;
+}
+
+.menu {
+    width: 50%;
+    color: chartreuse;
+    border: 1px solid rgb(62, 12, 155);
+}
+
+.a,
+ul,
+li {
+    text-decoration: none;
+
+    color: rgb(92, 10, 223);
+}
+.titulo {
+    color: red;
+
+}
+.p1, {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+.p2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:blue;
+}
